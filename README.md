@@ -1,8 +1,7 @@
-# Python Conalep Chimalhuacán
-
-
+# Python Conalep Chimalhuacán.
 
 ![portalChimalhuacan](/img/portalChilalhuacan.png "lugar donde tienen escudos")
+
 ## Descripción.
 
 Curso introductorio de Python. 
@@ -20,12 +19,16 @@ presentación de conjuntos de datos almacenados en un
 medio de almacenamiento no volátil.
 
 ## Competencia específica.
+
 Construye código fuente para la gestión, preprocesamiento, 
 insumo y presentación de datos en un proceso de 
 aprendizaje automático.
 
 ## Competencia previa.
+
 Diseña algoritmos y desarrolla programas de aplicación, 
-utilizando un lenguaje de programación estructurado.  
+utilizando un lenguaje de programación estructurado.
+
+  
 
 
