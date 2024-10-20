@@ -29,6 +29,15 @@ aprendizaje automático.
 Diseña algoritmos y desarrolla programas de aplicación, 
 utilizando un lenguaje de programación estructurado.
 
-  
+## Contenido.
 
+```bash 
+ProgrmasProcedimientos				 <- entorno Xampp. 
+  └─ Expresiones			         <- repositorio de proyectos http del servidor Apache.
+	   ├─ expresionesSimples.py		 <- carpeta contenedora de la aplicación web. 
+ 	   ├─ expresionesCompuestas.py   <- enruta cualquier petición URL el cliente. 
+  	   ├─ stdInt.py          		 <- arcivos de la aplicación para uso del desarrollad@r.	 
+   	   └─ public                     <- archivos públicos de la aplicación. 
+``` 
+</br>
 
