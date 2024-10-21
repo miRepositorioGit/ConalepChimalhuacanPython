@@ -46,8 +46,8 @@ Programación orientada a objetos.
   │    ├─ metodos.py   <- muestra asignación expresión compuesta a memoria trabajo
   │    └─ excepciones.py   <- muestra asignación expresión compuesta a memoria trabajo. 
   └─ Clase
-	   ├─ claseEstatica.py          		 <- asignación dinámica.
-	   └─ claseInstancia.py
+	  ├─ claseEstatica.py          		 <- asignación dinámica.
+	  └─ claseInstancia.py
 	   
 ``` 
 </br>
@@ -57,7 +57,11 @@ Programación orientada a objetos.
 	Disponible en: https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe
 	Consultado: 20oct24.
 	
-2. Notepad++
+2. Notepad++.
 	Disponible en:https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.7/npp.8.6.7.Installer.x64.exe.sig
 	Consultado: 20oct24.
+	
+3. Tablas con estilo con Tabulate.
+    Disponible en:https://python-para-impacientes.blogspot.com/2017/01/tablas-con-estilo-con-tabulate.html
+    Consultado:20oct24
 
