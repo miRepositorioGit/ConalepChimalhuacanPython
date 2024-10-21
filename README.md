@@ -33,8 +33,8 @@ Programación estructurada.
 	├─ Expresiones				Muestra.
 	│	├─ expresionesSimples.py	<- asignación expresión simple a memoria trabajo. 
 	│	├─ expresionesCompuestas.py	<- muestra asignación expresión compuesta a memoria trabajo. 
-	│	├─ stdInt.py				<- asignación dinámica.	 
-	│	└─ plantillaMain.py			<- estructura REPL. 
+	│	├─ stdInt.py			<- asignación dinámica.	 
+	│	└─ plantillaMain.py		<- estructura REPL. 
 	└─ Colecciones ordenadas
 		├─ listas.py
 		├─ tuplas.py
@@ -51,7 +51,7 @@ Programación orientada a objetos.
 ``` 
 </br>
 
-#Referencias.
+# Referencias.
 1. Download the latest version for Windows.
 	Disponible en: https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe
 	Consultado: 20oct24.
