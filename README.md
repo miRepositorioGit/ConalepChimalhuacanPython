@@ -2,7 +2,7 @@
 
 ![portalChimalhuacan](/img/portalChilalhuacan.png "Lugar donde tienen escudos")
 
-## Descripción.
+# Descripción.
 
 Curso introductorio de Python. 
 El propósito formativo de esta contenido temático, es proporcionar 
@@ -26,7 +26,7 @@ aprendizaje automático.
 Diseña algoritmos y desarrolla programas de aplicación, 
 utilizando un lenguaje de programación estructurado.
 
-## Contenido.
+# Contenido.
 
 ```bash 
 Programación estructurada.
