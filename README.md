@@ -33,7 +33,7 @@ Programación estructurada.
   ├─ Expresiones			         Muestra.
   │		├─ expresionesSimples.py	 <- asignación expresión simple a memoria trabajo. 
   │		├─ expresionesCompuestas.py  <- muestra asignación expresión compuesta a memoria trabajo. 
-  │ 	├─ stdInt.py          		 <- asignación dinámica.	 
+  │		├─ stdInt.py          		 <- asignación dinámica.	 
   │		└─ plantillaMain.py          <- estructura REPL. 
   └─ Colecciones ordenadas
 	   ├─ listas.py
