@@ -1,22 +1,19 @@
 # Python Conalep Chimalhuacán.
 
-![portalChimalhuacan](/img/portalChilalhuacan.png "lugar donde tienen escudos")
+![portalChimalhuacan](/img/portalChilalhuacan.png "Lugar donde tienen escudos")
 
 ## Descripción.
 
 Curso introductorio de Python. 
-El propósito formativo de esta asignatura, es proporcionar 
-una nivelación de conocimientos y habilidades de programación, 
-con herramientas estadísticas para técnicas de agrupamiento 
-y etiquetado de conjuntos de datos, que alimentan a dos 
-modelos de aprendizaje automático. 
-El contenido temático está organizado en cuatro unidades. 
-La primera unidad tiene el propósito de aplicar la 
-programación orientada a objetos para organizar, 
-implementar y manejar excepciones de las bibliotecas de 
-objetos, para el pre procesamiento, almacenamiento, 
-presentación de conjuntos de datos almacenados en un 
-medio de almacenamiento no volátil.
+El propósito formativo de esta contenido temático, es proporcionar 
+una nivelación de conocimientos y habilidades de programación en un 
+lenguaje interpretado. 
+El contenido temático está organizado en cuatro temas. 
+La primera parte aborda el concepto de la programación estructurada 
+con el manejo de expresiones; en la segunda parte se presenta el concepto 
+de colecciones ordenadadas de objetos {listas, tuplas y diccionarios}; 
+la penúltima parte aborda el concepto de método, clase y manejo de 
+excepción. Y la última el manejo de archivos. 
 
 ## Competencia específica.
 
@@ -32,12 +29,35 @@ utilizando un lenguaje de programación estructurado.
 ## Contenido.
 
 ```bash 
-ProgrmasProcedimientos				 <- entorno Xampp. 
-  └─ Expresiones			         <- repositorio de proyectos http del servidor Apache.
-	   ├─ expresionesSimples.py		 <- carpeta contenedora de la aplicación web. 
- 	   ├─ expresionesCompuestas.py   <- enruta cualquier petición URL el cliente. 
-  	   ├─ stdInt.py          		 <- arcivos de la aplicación para uso del desarrollad@r.	 
-   	   └─ public                     <- archivos públicos de la aplicación. 
+Programación estructurada.
+  ├─ Expresiones			         Muestra.
+  │    ├─ expresionesSimples.py		 <- asignación expresión simple a memoria trabajo. 
+  │    ├─ expresionesCompuestas.py   <- muestra asignación expresión compuesta a memoria trabajo. 
+  │	   ├─ stdInt.py          		 <- asignación dinámica.	 
+  │	   └─ plantillaMain.py           <- estructura REPL. 
+  └─ Colecciones ordenadas
+	   ├─ listas.py
+	   ├─ tuplas.py
+	   └─ Diccionarios.py
+	   
+Programación orientada a objetos.
+  ├─ Métodos
+  │    ├─ definiciones.py		 <- asignación expresión simple a memoria trabajo. 
+  │    ├─ metodos.py   <- muestra asignación expresión compuesta a memoria trabajo
+  │    └─ excepciones.py   <- muestra asignación expresión compuesta a memoria trabajo. 
+  └─ Clase
+	   ├─ claseEstatica.py          		 <- asignación dinámica.
+	   └─ claseInstancia.py
+	   
 ``` 
 </br>
+
+#Referencias.
+1. Download the latest version for Windows.
+	Disponible en: https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe
+	Consultado: 20oct24.
+	
+2. Notepad++
+	Disponible en:https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.7/npp.8.6.7.Installer.x64.exe.sig
+	Consultado: 20oct24.
 

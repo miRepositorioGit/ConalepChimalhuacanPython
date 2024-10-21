@@ -1,0 +1,8 @@
+id Campo Valor
+0  Calle Av.Ameyalco_s/n_Tlatel_Xochitenco
+1  municipio Chimalhuacan
+2  telefono  52+5526320808
+3  telefonoAlt 52+5558171618
+4  cp 56366 Edo.México
+5  estadoFederativo Estado_de_México
+6  url https://chimalhuacan.conalepmex.edu.mx .
