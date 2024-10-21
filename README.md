@@ -30,25 +30,24 @@ utilizando un lenguaje de programación estructurado.
 
 ```bash 
 Programación estructurada.
-  ├─ Expresiones			         Muestra.
-  │		├─ expresionesSimples.py	 <- asignación expresión simple a memoria trabajo. 
-  │		├─ expresionesCompuestas.py  <- muestra asignación expresión compuesta a memoria trabajo. 
-  │		├─ stdInt.py          		 <- asignación dinámica.	 
-  │		└─ plantillaMain.py          <- estructura REPL. 
-  └─ Colecciones ordenadas
-	   ├─ listas.py
-	   ├─ tuplas.py
-	   └─ Diccionarios.py
-	   
+	├─ Expresiones				Muestra.
+	│	├─ expresionesSimples.py	<- asignación expresión simple a memoria trabajo. 
+	│	├─ expresionesCompuestas.py	<- muestra asignación expresión compuesta a memoria trabajo. 
+	│	├─ stdInt.py				<- asignación dinámica.	 
+	│	└─ plantillaMain.py			<- estructura REPL. 
+	└─ Colecciones ordenadas
+		├─ listas.py
+		├─ tuplas.py
+		└─ Diccionarios.py
+	
 Programación orientada a objetos.
   ├─ Métodos
   │    ├─ definiciones.py	<- asignación expresión simple a memoria trabajo. 
-  │    ├─ metodos.py   		<- muestra asignación expresión compuesta a memoria trabajo
-  │    └─ excepciones.py   	<- muestra asignación expresión compuesta a memoria trabajo. 
+  │    ├─ metodos.py		<- muestra asignación expresión compuesta a memoria trabajo
+  │    └─ excepciones.py	<- muestra asignación expresión compuesta a memoria trabajo. 
   └─ Clase
-	├─ claseEstatica.py   <- asignación dinámica.
+	├─ claseEstatica.py		<- asignación dinámica.
 	└─ claseInstancia.py
-	   
 ``` 
 </br>
 
